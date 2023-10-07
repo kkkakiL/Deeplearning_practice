@@ -12,3 +12,4 @@ venv.bak/
 .ipynb_checkpoints
 __pycache__
 wandb
+.DS_Store
